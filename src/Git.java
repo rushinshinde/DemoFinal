@@ -5,7 +5,7 @@ public class Git {
 		// TODO Auto-generated method stub
 
 
-		System.out.println("For Demo Purpose");
+		System.out.println("For Demo Purpose Only");
 		
 		
 	}
